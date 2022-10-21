@@ -1,0 +1,11 @@
+{
+  "name": "enum-util",
+  "version": "0.0.1",
+  "description": "Emulation of typescript enum implementations in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "JJ95828",
+  "license": "MIT"
+}
