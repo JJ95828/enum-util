@@ -1,8 +1,10 @@
 {
   "name": "tools-enum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Emulation of typescript enum implementations in javascript.",
-  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "preferGlobal": true,
   "scripts": {
     "test": "node test.js"
   },
@@ -10,8 +12,8 @@
     "javascript",
     "js",
     "enum",
-    "enumUtil",
-    "enum-util"
+    "enum-util",
+    "tools-enum"
   ],
   "author": "wang828",
   "license": "MIT",
