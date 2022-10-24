@@ -1,11 +1,11 @@
-# enum-util
+# tools-enum
 
 Emulation of typescript enum implementations in javascript.
 
 
 ### Install
 ```bash
-$ npm install enum-util
+$ npm install tools-enum
 ```
 
 ### Use
