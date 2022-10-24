@@ -3,6 +3,12 @@
 Emulation of typescript enum implementations in javascript.
 
 
+### Install
+```bash
+$ npm install enum-util
+```
+
+### Use
 ``` 
 import enumUtil from './index'
 const test1 = enumUtil([

@@ -6,6 +6,21 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "JJ95828",
-  "license": "MIT"
+  "keywords": [
+    "javascript",
+    "js",
+    "enum",
+    "enumUtil",
+    "enum-util"
+  ],
+  "author": "wang828",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJ95828/enum-util"
+  },
+  "bugs": {
+    "url": "https://github.com/JJ95828/enum-util/issues"
+  },
+  "homepage": "https://jj95828.github.io/enum-util/demo.html"
 }
