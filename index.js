@@ -13,7 +13,7 @@ const isArray = (val) => type(val) === 'array'
 const freeze = (val) => Object.freeze(val)
 
 const reduce = (array, callback, defaultValue = {}) => {
-  array = array ?? []
+  array = array || []
   if (Array.prototype.reduce) {
     return freeze(array.reduce(callback, defaultValue))
   }
